@@ -1,0 +1,10 @@
+a b 10
+a c 50
+a d 65
+b c 30
+b e 4
+c d 20
+c e 44
+d b 70
+d e 23
+e a 6

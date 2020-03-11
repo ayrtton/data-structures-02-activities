@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1561425826 source:c:\users\ayrtt\desktop\computação\tads\estrutura de dados 2\trabalho 2\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+	"Grafo.h"
+
+1561422909 source:c:\users\ayrtt\desktop\computação\tads\estrutura de dados 2\trabalho 2\2\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1561415593 c:\users\ayrtt\desktop\computação\tads\estrutura de dados 2\trabalho 2\2\grafo.h
+

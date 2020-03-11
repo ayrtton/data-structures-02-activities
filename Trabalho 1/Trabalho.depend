@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1558031390 source:c:\users\ayrtt\desktop\computação\tads\estrutura de dados 2\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+
+1557792540 source:c:\users\ayrtt\desktop\computação\tads\estrutura de dados 2\trabalho - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+
